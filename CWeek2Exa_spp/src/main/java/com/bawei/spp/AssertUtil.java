@@ -8,7 +8,7 @@ public class AssertUtil {
 	
 	/**
 	 * 1. 断言为真
-	 * @param exp 为true或者false
+	 * @param exp 为true或者false.
 	 * @param message 为错误信息
 	 */
 	public static void isTrue(boolean exp,String message){	
